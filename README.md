@@ -13,7 +13,9 @@ https://www.youtube.com/watch?v=vOFq5evArE0
 For the code - 
 level.py - contains all of the python code to run
           Uses rtimulib (you will need this library to run the python code)
-          References ./templates/index.htmp (this contains the html/javascript for the user interface
+          References ./templates/index.htmp (this contains the html/javascript for the user interface)
+          
+index.html - web interface (needs to be in ./templates/ directory below level.py          
 
 unhitch.txt - contains the measurement when unhitched
 
