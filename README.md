@@ -3,9 +3,11 @@ This is code from a personal project - Python with Flask running on a Raspberry 
 
 The following YouTube video demonstrates the working code:
 Version 2 - shows current codebase in action
+
 https://www.youtube.com/watch?v=aCiFrJ4rooo
 
 Version 1 - initial concept
+
 https://www.youtube.com/watch?v=vOFq5evArE0
 
 For the code - 
@@ -45,7 +47,10 @@ Key-Fob and 12VDC relay board -
             https://www.banggood.com/Geekcreit-5V-4-Channel-Relay-Module-For-PIC-ARM-DSP-AVR-MSP430-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-87987.html?cur_warehouse=CN&rmmds=search
             
 TBD: Schematics for connecting the IMU to the RPI
+
 TBD: Schematics for connecting the 5VDC relay board to the RPI
+
 TBD: Directions for modifying the Keyfob to allow the 5VDC relay board to activate the remote buttons
+
 TBD: Directions for connecting the 12VDC relay board into the existing camper landing gear controls/switches
             
